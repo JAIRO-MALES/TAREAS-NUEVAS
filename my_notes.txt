@@ -1,0 +1,4 @@
+Nota 1 = Hacer deberes
+Nota 2 = Comprar insumos
+Nota 3 = Enviar reportes
+
